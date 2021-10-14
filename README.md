@@ -165,3 +165,9 @@ A project which is used to help teach those new to Test-Driven Development
 - [Testing Doubles, as described by Martin Fowler](https://martinfowler.com/bliki/TestDouble.html)
 
 - [Katas designed with TDD in mind](https://kata-log.rocks/)
+
+- ["Mocks aren't Stubs", as described by Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
+  
+- [Testing Behaviour VS State](https://coderstower.com/2019/09/24/unit-testing-behavior-vs-state/)
+
+- ['Given, When, Then' considered harmful, as told by Steve Freeman](https://skillsmatter.com/skillscasts/5009-given-when-then-considered-harmful)
